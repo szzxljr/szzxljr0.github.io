@@ -59,45 +59,31 @@ studies:
 
 projects:
     title: Projects
-    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    # intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
+    #   sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
     
     projects:
       - project:
-        title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-      - project:
-        title: DevStudio
+        title: Machine Learning Project
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-      - project:
-        title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-      - project:
-        title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-      - project:
-        title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "- Implemented a standalone perceptron. Built a mini-library for constructing and training neural networks."
+        tagline: "Built and trained several neural network to approximate sin(x), do digit classiﬁcation, reinforcement learning and language identiﬁcation."
+
 
 
 publications:
     title: Publications
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    # intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
     
     publications:
       - paper:
         title: Observer-Based Decentralized Event-triggered Consensus for Leader-following Linear Multi-Agent Systems
         authors: Jiarong Li, Xiang Wu, Qiuying Li, Yefeng Li.
-        conference: IEEE 3rd Advanced Information Technology, Electronic and Automation Control Conference, October 12-14, 2018. *(Accepted, EI)*
+        conference: IEEE 3rd Advanced Information Technology, Electronic and Automation Control Conference, October 12-14, 2018. ’‘(Accepted, EI)’‘
       - paper:
         title: Finite-time Distributed Event-triggered Consensus Control for Leader-following General Linear Multi-Agent Systems
         authors: Jiarong Li, Xiang Wu, Qiuying Li, Yefeng Li.
-        conference: IEEE 3rd Advanced Information Technology, Electronic and Automation Control Conference, October 12-14, 2018. *(Accepted, EI)*
+        conference: IEEE 3rd Advanced Information Technology, Electronic and Automation Control Conference, October 12-14, 2018. (Accepted, EI)
 
 
 
@@ -105,7 +91,7 @@ skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python & Django
+          name: Python & Java
           level: 98%
         - skill:
           name: Javascript & jQuery
