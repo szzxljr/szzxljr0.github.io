@@ -11,7 +11,7 @@ sidebar:
     # Profile information
     name: Jiarong Li
     tagline: Junior Undergraduate
-    pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
     email: jiarong.li00@gmail.com
@@ -31,7 +31,7 @@ sidebar:
         
     interests:
         - interest:
-          item: Photographing
+          item: Photograph
           link:
         - interest:
           item: Basketball
