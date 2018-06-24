@@ -9,42 +9,33 @@ sidebar:
     about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Jiarong Li
+    tagline: Junior Undergraduate
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    twitter: '@webjeda'
+    email: jiarong.li00@gmail.com
+    phone: (+86)-186-6622-2886
+    website: jiarongli.com #do not add http://
+    linkedin: Jiarong Li
+    github: szzxljr
+    twitter: '@xxx'
 
     languages:
         - language:
-          idiom: English
+          idiom: Chinese
           level: Native
         - language:
-          idiom: French
-          level: Professional
-        - language:
-          idiom: Spanish
-          level: Professional
+          idiom: English
+          level: Fluent
         
     interests:
         - interest:
-          item: Climbing
+          item: Photographing
           link:
         - interest:
-          item: Snowboarding
+          item: Basketball
           link:
-        - interest:
-          item: Cooking
-          link:
-
-        
-
 
 
 
