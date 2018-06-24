@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Jiarong Li
     tagline: Junior Undergraduate
-    pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
     email: jiarong.li00@gmail.com
@@ -53,7 +53,7 @@ studies:
       degree: Exchange studnent in EECS
       university: University of California, Berkeley
       time: 2017 - 2018
-      details: "Overall GPA: 4.00/4.00 (Ranking: 1st among 164 students)"
+      details: 
 
 
 projects:
@@ -93,7 +93,7 @@ publications:
         title: Observer-Based Decentralized Event-triggered Consensus for Leader-following Linear Multi-Agent Systems
         authors: Jiarong Li, Xiang Wu, Qiuying Li, Yefeng Li.
         conference: IEEE 3rd Advanced Information Technology, Electronic and Automation Control Conference, October 12-14, 2018. (Accepted, EI)
-       paper:
+      - paper:
         title: Finite-time Distributed Event-triggered Consensus Control for Leader-following General Linear Multi-Agent Systems
         authors: Jiarong Li, Xiang Wu, Qiuying Li, Yefeng Li.
         conference: IEEE 3rd Advanced Information Technology, Electronic and Automation Control Conference, October 12-14, 2018. (Accepted, EI)
