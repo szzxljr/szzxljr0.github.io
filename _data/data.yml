@@ -39,6 +39,7 @@ sidebar:
 
 career-profile: 
     title: Career Profile
+    text: 
     # text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
 
 
@@ -56,21 +57,6 @@ studies:
       time: 2017 - 2018
       details: 
 
-
-projects:
-    title: Projects
-    # intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-    #   sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-    
-    projects:
-      - project:
-        title: Machine Learning Project
-        link: "#"
-        tagline: "- Implemented a standalone perceptron. Built a mini-library for constructing and training neural networks."
-        tagline: "Built and trained several neural network to approximate sin(x), do digit classiﬁcation, reinforcement learning and language identiﬁcation."
-
-
-
 publications:
     title: Publications
     # intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
@@ -85,6 +71,41 @@ publications:
         authors: Jiarong Li, Xiang Wu, Qiuying Li, Yefeng Li.
         conference: IEEE 3rd Advanced Information Technology, Electronic and Automation Control Conference, October 12-14, 2018. (Accepted, EI)
 
+projects:
+    title: Projects
+    # intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
+    #   sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    
+    projects:
+      - project:
+        title: Vision-based tacile sensor
+        link: "#"
+        tagline: Embedding tactile sensors in soft materials with simpliﬁed model systems for the control of softrobots and assistive devices. - Build the force sensor system, extract point cloud data
+
+      - project:
+        title: 
+        link: "#"
+        tagline:
+
+      - project:
+        title: 
+        link: "#"
+        tagline:
+
+      - project:
+        title: 
+        link: "#"
+        tagline:
+
+      - project:
+        title: 
+        link: "#"
+        tagline:
+
+      - project:
+        title: Machine Learning Project
+        link: "#"
+        tagline: "- Implemented a standalone perceptron. Built a mini-library for constructing and training neural networks. Built and trained several neural network to approximate sin(x), do digit classiﬁcation, reinforcement learning and language identiﬁcation."
 
 
 skills:
