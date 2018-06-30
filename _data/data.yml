@@ -39,7 +39,8 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: 
+    text:  My research focuses on Robotics, Control and Machine Learning. I come from University of Electronic Science and Technology of China, Chengdu, China, and I'm now a junior undergradute visiting student in UC Berkeley. I will receive my BS in early 2019.
+    #I'm interested in using ML/CV to help robots acquire perception and behave automatically towards complex tasks. 
     # text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
 
 
@@ -49,7 +50,7 @@ studies:
       degree: BSc in Electrical Engineering
       university: University of Electronic Science and Technology of China
       time: 2015 - 2019
-      details: "Overall GPA: 4.00/4.00 (Ranking: 1st among 164 students)"
+      details: Overall GPA 4.00/4.00 (Ranking 1st among 164 students)
 
     - education:
       degree: Exchange studnent in EECS
@@ -82,25 +83,25 @@ projects:
         link: "#"
         tagline: Embedding tactile sensors in soft materials with simpliﬁed model systems for the control of softrobots and assistive devices. - Build the force sensor system, extract point cloud data
 
-      - project:
-        title: 
+      - project: 
+        title: Human Musculoskeletal Dynamics Modeling
         link: "#"
-        tagline:
+        tagline: The project aims to develop models to predict human arm dynamics that have appropriate level of abstraction, are trainable/customizable and can be used in assistive device control system using non-invasive, wearable sensing. - Exam ways to employ convolutional neural networks (like U-Net) to undertake similar morphological studies (map the MRI data of one subject’s muscles onto the scan of another)
 
       - project:
-        title: 
+        title: Real-Time Video Stitching Technology of UAV
         link: "#"
-        tagline:
+        tagline: Stitch video in real-time and balance robustness and eﬃciency when computational resources are limited. - Designed the mosaic algorithm to match the feature points on selective seam updating stage. - Received and stitched two aerial videos in our computer.
 
-      - project:
-        title: 
-        link: "#"
-        tagline:
+      # - project:
+      #   title: 
+      #   link: "#"
+      #   tagline:
 
-      - project:
-        title: 
-        link: "#"
-        tagline:
+      # - project:
+      #   title: 
+      #   link: "#"
+      #   tagline:
 
       - project:
         title: Machine Learning Project
@@ -113,22 +114,44 @@ skills:
     skills:
         - skill:
           name: Python & Java
-          level: 98%
+          level: 90%
+
         - skill:
-          name: Javascript & jQuery
-          level: 98%
-        - skill:
-          name: Angular
-          level: 98%
-        - skill:
-          name: HTML5 & CSS
-          level: 95%
-        - skill:
-          name: Ruby on Rails
+          name: C/C++ & Matlab
           level: 85%
+
+        - skill: 
+          name: Robot Operating System
+          level: 80%
+
         - skill:
-          name: Sketch & Photoshop
-          level: 60%
+          name: OpenCV, Tensorflow
+          level: 70%
+
+        - skill:
+          name: Linux (Arch Linux, Ubuntu)
+          level: 80%
+
+        - skill:
+          name: Hspice, Multisim
+          level: 75%
+
+
+        # - skill:
+        #   name: Javascript & jQuery
+        #   level: 98%
+        # - skill:
+        #   name: Angular
+        #   level: 98%
+        # - skill:
+        #   name: HTML5 & CSS
+        #   level: 95%
+        # - skill:
+        #   name: Ruby on Rails
+        #   level: 85%
+        # - skill:
+        #   name: Sketch & Photoshop
+        #   level: 60%
 
 
 
