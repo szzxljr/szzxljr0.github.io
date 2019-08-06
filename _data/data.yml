@@ -8,7 +8,7 @@ sidebar:
     
     # Profile information
     name: Jiarong Li
-    tagline: Junior Undergraduate
+    tagline: Master Student
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
@@ -17,7 +17,7 @@ sidebar:
     website: jiarongli.com #do not add http://
     linkedin: Jiarong Li
     github: szzxljr
-    twitter: '@xxx'
+    # twitter: '@xxx'
 
     languages:
         - language:
@@ -39,7 +39,7 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text:  My research focuses on Robotics, Control and Machine Learning. I come from University of Electronic Science and Technology of China, Chengdu, China, and I'm now a junior undergradute visiting student in UC Berkeley. I will receive my BS in early 2019.
+    text:  My research focuses on Robotics, Control and Computer Vision. I got my Bacherlor's Degree from University of Electronic Science and Technology of China and currently I am a master student in Tsinghua-Berkeley Shenzhen Institute. I will receive my MSc from THU and MEng from UCB in early 2022.
     #I'm interested in using ML/CV to help robots acquire perception and behave automatically towards complex tasks. 
     # text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
 
@@ -47,10 +47,22 @@ career-profile:
 studies: 
 
     - education:
+        degree: Dual-degree Master in Data Science and Information Technology
+        university: Tsinghua University & UC Berkeley
+        time: 2019 - 2021
+        # details: 
+
+    # - education:
+    #     degree: MEng in Data Science and Information Technolog
+    #     university: 
+    #     time: 2019 - 2021
+        # details: 
+
+    - education:
       degree: BSc in Electrical Engineering
       university: University of Electronic Science and Technology of China
       time: 2015 - 2019
-      details: Overall GPA 4.00/4.00 (Ranking 1st among 164 students)
+      details: Overall GPA 4.00/4.00 (Ranking 1st among 165 students)
 
     - education:
       degree: Exchange studnent in EECS
@@ -65,12 +77,13 @@ publications:
     publications:
       - paper:
         title: Observer-Based Decentralized Event-triggered Consensus for Leader-following Linear Multi-Agent Systems
+        link: "www.baidu.com"
         authors: Jiarong Li, Xiang Wu, Qiuying Li, Yefeng Li.
-        conference: IEEE 3rd Advanced Information Technology, Electronic and Automation Control Conference, October 12-14, 2018. (Accepted, EI)
+        conference: IEEE 3rd Advanced Information Technology, Electronic and Automation Control Conference, October 12-14, 2018. (Published, EI)
       - paper:
         title: Finite-time Distributed Event-triggered Consensus Control for Leader-following General Linear Multi-Agent Systems
         authors: Jiarong Li, Xiang Wu, Qiuying Li, Yefeng Li.
-        conference: IEEE 3rd Advanced Information Technology, Electronic and Automation Control Conference, October 12-14, 2018. (Accepted, EI)
+        conference: IEEE 3rd Advanced Information Technology, Electronic and Automation Control Conference, October 12-14, 2018. (Published, EI)
 
 projects:
     title: Projects
@@ -79,24 +92,33 @@ projects:
     
     projects:
       - project:
-        title: Vision-based tacile sensor
-        link: "#"
-        tagline: Embedding tactile sensors in soft materials with simpliﬁed model systems for the control of softrobots and assistive devices. - Build the force sensor system, extract point cloud data
-
-      - project: 
-        title: Human Musculoskeletal Dynamics Modeling
-        link: "#"
-        tagline: The project aims to develop models to predict human arm dynamics that have appropriate level of abstraction, are trainable/customizable and can be used in assistive device control system using non-invasive, wearable sensing. - Exam ways to employ convolutional neural networks (like U-Net) to undertake similar morphological studies (map the MRI data of one subject’s muscles onto the scan of another)
-
-      - project:
         title: Real-Time Video Stitching Technology of UAV
         link: "#"
-        tagline: Stitch video in real-time and balance robustness and eﬃciency when computational resources are limited. - Designed the mosaic algorithm to match the feature points on selective seam updating stage. - Received and stitched two aerial videos in our computer.
+        tagline: Designed a video stabilization method combining feature matching and filtering method
+        tagline: Designed a video stitching algorithm based on sub-pixel feature corner tracking in time domain
+        tagline: Stitched two videos on subpixel resolution at a rate exceeding 15 fps; Designed a GUI and software system
 
       # - project:
       #   title: 
       #   link: "#"
       #   tagline:
+
+
+      - project:
+        title: Vision-based tacile sensor
+        link: "#"
+        tagline: Embedding tactile sensors in soft materials with simpliﬁed model systems for the control of softrobots and assistive devices. 
+        tagline: Build the force sensor system, extract point cloud data
+
+      - project: 
+        title: Human Musculoskeletal Dynamics Modeling
+        link: "#"
+        tagline: The project aims to develop models to predict human arm dynamics that have appropriate level of abstraction, are trainable/customizable and can be used in assistive device control system using non-invasive, wearable sensing.
+        tagline:  Exam ways to employ convolutional neural networks (like U-Net) to undertake similar morphological studies (map the MRI data of one subject’s muscles onto the scan of another)
+
+      
+
+     
 
       # - project:
       #   title: 
