@@ -92,39 +92,30 @@ projects:
     
     projects:
       - project:
-        title: "Real-Time Video Stitching Technology of UAV\n"
+        title: Real-Time Video Stitching Technology of UAV
         # link: "#"
-        tagline: "Designed a video stabilization method combining feature matching and filtering method \n Designed a video stitching algorithm based on sub-pixel feature corner tracking in time \n Stitched two videos on subpixel resolution at a rate exceeding 15 fps; Designed a GUI and software system"
+        tagline: Designed a video stabilization method combining feature matching and filtering method; Designed a video stitching algorithm based on sub-pixel feature corner tracking in time; Stitched two videos on subpixel resolution at a rate exceeding 15 fps; Designed a GUI and software system
 
       - project:
         title: Baxter Catching Flying Ball 
         link: "https://baxter-catching-ball.weebly.com"
-        tagline: - Detected the tennis ball and track the trajectory. Predicted the dropping point of the tennis ball
-                - Computed the robot configuration and path planning. Wrote a fast controller to move the robot
+        tagline: Detected the tennis ball and track the trajectory. Predicted the dropping point of the tennis ball;  omputed the robot configuration and path planning. Wrote a fast controller to move the robot
 
       - project: 
         title: Baxter Playing Sokoban 
         link: "https://baxtersokoban.weebly.com"
-        tagline: Let industrial robot Baxter play a transport puzzle Sokoban manually and automatically
-                - Wrote a subscriber to build the map, a rule function to receive, check and process keyboard inputs
-                - Wrote a searching algorithm to plan the moving paths
+        tagline: Let industrial robot Baxter play a transport puzzle Sokoban manually and automatically; Wrote a subscriber to build the map, a rule function to receive, check and process keyboard inputs; Wrote a searching algorithm to plan the moving paths
 
 
       - project:
         title: Vision-based tacile sensor
         # link: "#"
-        tagline: Embedding tactile sensors in soft materials with simpliﬁed model systems for the control of softrobots and assistive devices. 
-        tagline: Build the force sensor system, extract point cloud data
+        tagline: Embedding tactile sensors in soft materials with simpliﬁed model systems for the control of softrobots and assistive devices. Build the force sensor system, extract point cloud data
 
       - project: 
         title: Human Musculoskeletal Dynamics Modeling
-        # link: "#"
-        tagline: The project aims to develop models to predict human arm dynamics that have appropriate level of abstraction, are trainable/customizable and can be used in assistive device control system using non-invasive, wearable sensing.
-        tagline:  Exam ways to employ convolutional neural networks (like U-Net) to undertake similar morphological studies (map the MRI data of one subject’s muscles onto the scan of another)
-
-      
-
-     
+        link: "#"
+        tagline: The project aims to develop models to predict human arm dynamics that have appropriate level of abstraction, are trainable/customizable and can be used in assistive device control system using non-invasive, wearable sensing. Exam ways to employ convolutional neural networks (like U-Net) to undertake similar morphological studies (map the MRI data of one subject’s muscles onto the scan of another)
 
       # - project:
       #   title: 
@@ -146,11 +137,11 @@ skills:
 
         - skill:
           name: C/C++ & Matlab
-          level: 85%
+          level: 80%
 
         - skill: 
           name: Robot Operating System
-          level: 80%
+          level: 90%
 
         - skill:
           name: OpenCV, Tensorflow
@@ -158,7 +149,7 @@ skills:
 
         - skill:
           name: Linux (Arch Linux, Ubuntu)
-          level: 80%
+          level: 90%
 
         - skill:
           name: Hspice, Multisim
