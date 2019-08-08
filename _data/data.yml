@@ -12,7 +12,7 @@ sidebar:
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: jiarong.li00@gmail.com
+    email: jiarong.li00 \at gmail \dot com
     phone: (+86)-186-6622-2886
     website: jiarongli.com #do not add http://
     linkedin: Jiarong Li
@@ -50,7 +50,7 @@ studies:
         degree: Dual-degree Master in Data Science and Information Technology
         university: Tsinghua University & UC Berkeley
         time: 2019 - 2021
-        # details: 
+        details: 
 
     # - education:
     #     degree: MEng in Data Science and Information Technolog
@@ -77,7 +77,7 @@ publications:
     publications:
       - paper:
         title: Observer-Based Decentralized Event-triggered Consensus for Leader-following Linear Multi-Agent Systems
-        link: "www.baidu.com"
+        # link: "www.baidu.com"
         authors: Jiarong Li, Xiang Wu, Qiuying Li, Yefeng Li.
         conference: IEEE 3rd Advanced Information Technology, Electronic and Automation Control Conference, October 12-14, 2018. (Published, EI)
       - paper:
@@ -94,9 +94,7 @@ projects:
       - project:
         title: Real-Time Video Stitching Technology of UAV
         link: "#"
-        tagline: Designed a video stabilization method combining feature matching and filtering method
-        tagline: Designed a video stitching algorithm based on sub-pixel feature corner tracking in time domain
-        tagline: Stitched two videos on subpixel resolution at a rate exceeding 15 fps; Designed a GUI and software system
+        tagline: Designed a video stabilization method combining feature matching and filtering method \n Designed a video stitching algorithm based on sub-pixel feature corner tracking in time \n Stitched two videos on subpixel resolution at a rate exceeding 15 fps; Designed a GUI and software system
 
       # - project:
       #   title: 
