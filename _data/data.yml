@@ -48,7 +48,7 @@ studies:
 
     - education:
         degree: Dual-degree Master in Data Science and Information Technology
-        university: "Tsinghua University \& UC Berkeley"
+        university: "Tsinghua University & UC Berkeley"
         time: 2019 - 2021
         details: 
 
@@ -84,6 +84,16 @@ publications:
         title: Finite-time Distributed Event-triggered Consensus Control for Leader-following General Linear Multi-Agent Systems
         authors: Jiarong Li, Xiang Wu, Qiuying Li, Yefeng Li.
         conference: IEEE 3rd Advanced Information Technology, Electronic and Automation Control Conference, October 12-14, 2018. (Published, EI)
+
+
+experiences:
+  # title: Experiences
+
+  - experience:
+    role: github
+    time: f
+    company: g
+    detals: g
 
 projects:
     title: Projects
@@ -133,15 +143,15 @@ skills:
     skills:
         - skill:
           name: Python & Java
-          level: 90%
+          level: 85%
 
         - skill:
           name: C/C++ & Matlab
-          level: 80%
+          level: 75%
 
         - skill: 
           name: Robot Operating System
-          level: 90%
+          level: 85%
 
         - skill:
           name: OpenCV, Tensorflow
@@ -149,11 +159,11 @@ skills:
 
         - skill:
           name: Linux (Arch Linux, Ubuntu)
-          level: 85%
+          level: 80%
 
         - skill:
           name: Hspice, Multisim
-          level: 70%
+          level: 60%
 
 
         # - skill:
