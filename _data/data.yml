@@ -94,7 +94,7 @@ projects:
       - project:
         title: Real-Time Video Stitching Technology of UAV
         # link: "#"
-        tagline: "Designed a video stabilization method combining feature matching and filtering method; Designed a video stitching algorithm based on sub-pixel feature corner tracking in time; \n Stitched two videos on subpixel resolution at a rate exceeding 15 fps; Designed a GUI and software system"
+        tagline: Designed a video stabilization method combining feature matching and filtering method; Designed a video stitching algorithm based on sub-pixel feature corner tracking in time; Stitched two videos on subpixel resolution at a rate exceeding 15 fps; Designed a GUI and software system
 
       - project:
         title: Baxter Catching Flying Ball 
@@ -149,11 +149,11 @@ skills:
 
         - skill:
           name: Linux (Arch Linux, Ubuntu)
-          level: 90%
+          level: 85%
 
         - skill:
           name: Hspice, Multisim
-          level: 75%
+          level: 70%
 
 
         # - skill:
