@@ -39,7 +39,7 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text:  My research focuses on Smart Sensing, Robotics, Control, and Computer Vision. I got my Bachelor's Degree from the University of Electronic Science and Technology of China, and currently, I am a master's student at Tsinghua University (THU). I will receive my MSc in Data Science from THU and MEng in Industrial Engineering and Operation Research from UC Berkeley in early 2022.
+    text:  My research focuses on Smart Sensing, Robotics, Control, and Computer Vision. I got my bachelor's degree from the University of Electronic Science and Technology of China, and I was an exchange student at UC Berkeley in my sophomore year. Currently, I am a master's student at Tsinghua-Berkeley Shenzhen Institute. I will receive my MSc in Data Science from Tsinghua University and MEng in Industrial Engineering and Operation Research (IEOR) from UC Berkeley in June 2022.
     #I'm interested in using ML/CV to help robots acquire perception and behave automatically towards complex tasks. 
     # text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
 
@@ -47,28 +47,34 @@ career-profile:
 studies: 
 
     - education:
-        degree: MEng in Industrial Engineering and Operation Research
-        university: University of California, Berkeley
-        time: 2021 - 2022
-        details: 
-
-    - education:
-        degree: MSc in Data Science and Information Technology
-        university: Tsinghua University
+        degree: MSc in Data Science and MEng in IEOR
+        university: Tsinghua University and UC Berkeley
         time: 2019 - 2022
         details: 
+
+    # - education:
+    #     degree: MEng in Industrial Engineering and Operation Research
+    #     university: University of California, Berkeley
+    #     time: 2021 - 2022
+    #     details: 
+
+    # - education:
+    #     degree: MSc in Data Science and Information Technology
+    #     university: Tsinghua University
+    #     time: 2019 - 2022
+    #     details: 
 
     - education:
       degree: BSc in Electronic Science and Technology
       university: University of Electronic Science and Technology of China
       time: 2015 - 2019
-      details: Overall GPA 4.00/4.00 (Ranking 1st among 165 students)
+      details: Overall GPA 3.99/4.00 (Ranking 1st among 165 students)
 
-    - education:
-      degree: Exchange studnent
-      university: University of California, Berkeley
-      time: 2017 - 2018
-      details: 
+    # - education:
+    #   degree: Exchange studnent
+    #   university: University of California, Berkeley
+    #   time: 2017 - 2018
+    #   details: 
 
 publications:
     title: Publications
