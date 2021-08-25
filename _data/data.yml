@@ -1,6 +1,4 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output. 
-#
+
 
 sidebar:
     # Site Settings
@@ -13,7 +11,7 @@ sidebar:
     # Sidebar links
     email: jiarong.li00 \at gmail \dot com
     phone: (+86)-186-6622-2886
-    website: jiarongli.com #do not add http://
+    website: jiarongli.work #do not add http://
     linkedin: Jiarong Li
     github: szzxljr
     # twitter: '@xxx'
@@ -38,7 +36,7 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text:  My research focuses on Robotics, Control and Computer Vision. I got my Bacherlor's Degree from University of Electronic Science and Technology of China and currently I am a master student in Tsinghua-Berkeley Shenzhen Institute. I will receive my MSc from THU and MEng from UCB in early 2022.
+    text:  My research focuses on Smart Sensing, Robotics, Control and Computer Vision. I got my Bacherlor's Degree from University of Electronic Science and Technology of China and currently I am a master student in Tsinghua Unveirsity (THU). I will receive my MSc in Data Science from THU and MEng in Industrial Engineering and Operation Research from UC Berkeley in early 2022.
     #I'm interested in using ML/CV to help robots acquire perception and behave automatically towards complex tasks. 
     # text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
 
@@ -46,25 +44,25 @@ career-profile:
 studies: 
 
     - education:
-        degree: Dual-degree Master in Data Science and Information Technology
-        university: "Tsinghua University and UC Berkeley"
-        time: 2019 - 2021
+        degree: MEng in Industrial Engineering and Operation Research
+        university: University of California, Berkeley
+        time: 2020 - 2021
         details: 
 
-    # - education:
-    #     degree: MEng in Data Science and Information Technolog
-    #     university: 
-    #     time: 2019 - 2021
-        # details: 
+    - education:
+        degree: MSc in Data Science and Information Technology
+        university: Tsinghua University
+        time: 2019 - 2021
+        details: 
 
     - education:
       degree: BSc in Electrical Engineering
       university: University of Electronic Science and Technology of China
       time: 2015 - 2019
-      details: Overall GPA 4.00/4.00 (Ranking 1st among 165 students)
+      details: Overall GPA 3.99/4.00 (Ranking 1st among 165 students)
 
     - education:
-      degree: Exchange studnent in EECS
+      degree: Exchange studnent
       university: University of California, Berkeley
       time: 2017 - 2018
       details: 
@@ -79,14 +77,34 @@ publications:
         # link: "www.baidu.com"
         authors: Jiarong Li, Xiang Wu, Qiuying Li, Yefeng Li.
         conference: IEEE 3rd Advanced Information Technology, Electronic and Automation Control Conference, October 12-14, 2018. (Published, EI)
+      
       - paper:
         title: Finite-time Distributed Event-triggered Consensus Control for Leader-following General Linear Multi-Agent Systems
         authors: Jiarong Li, Xiang Wu, Qiuying Li, Yefeng Li.
         conference: IEEE 3rd Advanced Information Technology, Electronic and Automation Control Conference, October 12-14, 2018. (Published, EI)
+      
+      - paper:
+        title: Triboelectric Nanogenerators Enabled Internet of Things, A Survey, Intelligent and Converged Networks
+        authors: Jiarong Li, Changsheng Wu, Ishara Dharmasena, Xiaoyue Ni, Zihan Wang, Haixu Shen, Shao-Lun Huang, Wenbo Ding.
+        conference: Intelligent and Converged Networks. (Published, IEEE & ITU Journal)
+      
+      - paper:
+      title: Triboelectric Nanogenerators Enabled Internet of Things, A Survey, Intelligent and Converged Networks
+      authors: Jiarong Li, Changsheng Wu, Ishara Dharmasena, Xiaoyue Ni, Zihan Wang, Haixu Shen, Shao-Lun Huang, Wenbo Ding.
+      conference: Intelligent and Converged Networks. (Published, IEEE & ITU Journal)
+      
+      - paper:
+        title: Sensing Beyond Itself, Multi-functional Use of Ubiquitous Signals towards Wearable Applications
+        authors: Jihan Wang, Jiarong Li, Yuchao Jin, Jiyu Wang, Fang Yan, Gang Li, Xiaoyue Ni, Wenbo Ding.
+        conference: Digital Signal Processing. (Published, SCI)
+
+      - paper:
+        title: TriboGait, A deep learning enabled triboelectric gait sensor system for human activity recognition and individual identification
+        authors: Jiarong Li, Zihan Wang, Zihao Zhao, Yuchao Jin, Jihong Yin, Jiyu Wang, Shao-Lun Huang, Jiyu Wang.
+        conference: Adjunct Proceedings of the 2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing. (Accepted, EI, CCF-A)
 
 
 experiences:
-  # title: Experiences
 
   - experience:
     role: github
@@ -101,30 +119,33 @@ projects:
     
     projects:
       - project:
+        title: Self-Powered Gait Sensor Using Triboelectric Nanogenerator
+        tagline: Applied TENG to construct a self-powered gait sensor system for occupancy activity and ID detection and monitoring;Trained the obtained datasets using deep learning method to realize classification. 
+
+
+      - project:
         title: Real-Time Video Stitching Technology of UAV
         # link: "#"
-        tagline: Designed a video stabilization method combining feature matching and filtering method; Designed a video stitching algorithm based on sub-pixel feature corner tracking in time; Stitched two videos on subpixel resolution at a rate exceeding 15 fps; Designed a GUI and software system
+        tagline: Designed a video stabilization method combining feature matching and filtering method; Designed a video stitching algorithm based on sub-pixel feature corner tracking in time; Stitched two videos on subpixel resolution at a rate exceeding 15 fps; Designed a GUI and software system.
 
       - project:
         title: Baxter Catching Flying Ball 
         link: "https://baxter-catching-ball.weebly.com"
-        tagline: Detected the tennis ball and track the trajectory. Predicted the dropping point of the tennis ball;  omputed the robot configuration and path planning. Wrote a fast controller to move the robot
+        tagline: Detected the tennis ball and track the trajectory. Predicted the dropping point of the tennis ball;  omputed the robot configuration and path planning. Wrote a fast controller to move the robot.
 
       - project: 
         title: Baxter Playing Sokoban 
         link: "https://baxtersokoban.weebly.com"
-        tagline: Let industrial robot Baxter play a transport puzzle Sokoban manually and automatically; Wrote a subscriber to build the map, a rule function to receive, check and process keyboard inputs; Wrote a searching algorithm to plan the moving paths
+        tagline: Let industrial robot Baxter play a transport puzzle Sokoban manually and automatically; Wrote a subscriber to build the map, a rule function to receive, check and process keyboard inputs; Wrote a searching algorithm to plan the moving paths.
 
 
       - project:
         title: Vision-based tacile sensor
-        # link: "#"
-        tagline: Embedding tactile sensors in soft materials with simpliﬁed model systems for the control of softrobots and assistive devices. Build the force sensor system, extract point cloud data
+        tagline: Embedding tactile sensors in soft materials with simpliﬁed model systems for the control of softrobots and assistive devices. Build the force sensor system, extract point cloud data.
 
-      - project: 
-        title: Human Musculoskeletal Dynamics Modeling
-        link: "#"
-        tagline: The project aims to develop models to predict human arm dynamics that have appropriate level of abstraction, are trainable/customizable and can be used in assistive device control system using non-invasive, wearable sensing. Exam ways to employ convolutional neural networks (like U-Net) to undertake similar morphological studies (map the MRI data of one subject’s muscles onto the scan of another)
+      # - project: 
+      #   title: Human Musculoskeletal Dynamics Modeling
+      #   tagline: The project aims to develop models to predict human arm dynamics that have appropriate level of abstraction, are trainable/customizable and can be used in assistive device control system using non-invasive, wearable sensing. Exam ways to employ convolutional neural networks (like U-Net) to undertake similar morphological studies (map the MRI data of one subject’s muscles onto the scan of another).
 
       # - project:
       #   title: 
@@ -133,8 +154,8 @@ projects:
 
       - project:
         title: Machine Learning Project
-        link: "#"
-        tagline: "- Implemented a standalone perceptron. Built a mini-library for constructing and training neural networks. Built and trained several neural network to approximate sin(x), do digit classiﬁcation, reinforcement learning and language identiﬁcation."
+        link: "https://github.com/szzxljr/CS188_Course_Projects"
+        tagline: Implemented a standalone perceptron. Built a mini-library for constructing and training neural networks. Built and trained several neural network to approximate sin(x), do digit classiﬁcation, reinforcement learning and language identiﬁcation.
 
 
 skills:
@@ -163,23 +184,6 @@ skills:
         - skill:
           name: Hspice, Multisim
           level: 60%
-
-
-        # - skill:
-        #   name: Javascript & jQuery
-        #   level: 98%
-        # - skill:
-        #   name: Angular
-        #   level: 98%
-        # - skill:
-        #   name: HTML5 & CSS
-        #   level: 95%
-        # - skill:
-        #   name: Ruby on Rails
-        #   level: 85%
-        # - skill:
-        #   name: Sketch & Photoshop
-        #   level: 60%
 
 
 
