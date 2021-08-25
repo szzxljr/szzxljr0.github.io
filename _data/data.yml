@@ -47,10 +47,21 @@ career-profile:
 studies: 
 
     - education:
-        degree: MSc in Data Science and MEng in IEOR
-        university: Tsinghua University and UC Berkeley
-        time: 2019 - 2022
-        details: 
+      degree: BSc in Electronic Science and Technology
+      university: University of Electronic Science and Technology of China
+      time: 2015 - 2019
+      details: Overall GPA 3.99/4.00 (Ranking 1st among 165 students)
+
+    - education:
+      degree: MSc in Data Science and MEng in IEOR
+      university: Tsinghua University and UC Berkeley
+      time: 2019 - 2022
+      details: 
+    # - education:
+    #   degree: Exchange studnent
+    #   university: University of California, Berkeley
+    #   time: 2017 - 2018
+    #   details: 
 
     # - education:
     #     degree: MEng in Industrial Engineering and Operation Research
@@ -63,18 +74,6 @@ studies:
     #     university: Tsinghua University
     #     time: 2019 - 2022
     #     details: 
-
-    - education:
-      degree: BSc in Electronic Science and Technology
-      university: University of Electronic Science and Technology of China
-      time: 2015 - 2019
-      details: Overall GPA 3.99/4.00 (Ranking 1st among 165 students)
-
-    # - education:
-    #   degree: Exchange studnent
-    #   university: University of California, Berkeley
-    #   time: 2017 - 2018
-    #   details: 
 
 publications:
     title: Publications
