@@ -120,7 +120,7 @@ projects:
     projects:
       - project:
         title: Self-Powered Gait Sensor Using Triboelectric Nanogenerator
-        tagline: Applied TENG to construct a self-powered gait sensor system for occupancy activity and ID detection and monitoring;Trained the obtained datasets using deep learning method to realize classification. 
+        tagline: Applied TENG to construct a self-powered gait sensor system for occupancy activity and ID detection and monitoring; Trained the obtained datasets using deep learning method to realize classification. 
 
 
       - project:
@@ -131,7 +131,7 @@ projects:
       - project:
         title: Baxter Catching Flying Ball 
         link: "https://baxter-catching-ball.weebly.com"
-        tagline: Detected the tennis ball and track the trajectory. Predicted the dropping point of the tennis ball;  omputed the robot configuration and path planning. Wrote a fast controller to move the robot.
+        tagline: Detected the tennis ball and track the trajectory. Predicted the dropping point of the tennis ball;  computed the robot configuration and path planning. Wrote a fast controller to move the robot.
 
       - project: 
         title: Baxter Playing Sokoban 
@@ -140,8 +140,8 @@ projects:
 
 
       - project:
-        title: Vision-based tacile sensor
-        tagline: Embedding tactile sensors in soft materials with simpliﬁed model systems for the control of softrobots and assistive devices. Build the force sensor system, extract point cloud data.
+        title: Vision-based tactile sensor
+        tagline: Embedding tactile sensors in soft materials with simpliﬁed model systems to control soft robots and assistive devices. Build the force sensor system, extract point cloud data.
 
       # - project: 
       #   title: Human Musculoskeletal Dynamics Modeling
