@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: jiarong.li00 \at gmail \dot com
     phone: (+86)-186-6622-2886
-    website: jiarongli.com #do not add http://
+    website: jiarongli.work #do not add http://
     linkedin: Jiarong Li
     github: szzxljr
     # twitter: '@xxx'
@@ -39,7 +39,7 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text:  My research focuses on Robotics, Control and Computer Vision. I got my Bacherlor's Degree from University of Electronic Science and Technology of China and currently I am a master student in Tsinghua-Berkeley Shenzhen Institute. I will receive my MSc from THU and MEng from UCB in early 2022.
+    text:  My research focuses on Smart Sensing, Robotics, Control, and Computer Vision. I got my Bachelor's Degree from the University of Electronic Science and Technology of China, and currently, I am a master's student at Tsinghua University (THU). I will receive my MSc in Data Science from THU and MEng in Industrial Engineering and Operation Research from UC Berkeley in early 2022.
     #I'm interested in using ML/CV to help robots acquire perception and behave automatically towards complex tasks. 
     # text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
 
@@ -47,16 +47,16 @@ career-profile:
 studies: 
 
     - education:
-        degree: Dual-degree Master in Data Science and Information Technology
-        university: "Tsinghua University and UC Berkeley"
-        time: 2019 - 2021
+        degree: MEng in Industrial Engineering and Operation Research
+        university: University of California, Berkeley
+        time: 2021 - 2022
         details: 
 
-    # - education:
-    #     degree: MEng in Data Science and Information Technolog
-    #     university: 
-    #     time: 2019 - 2021
-        # details: 
+    - education:
+        degree: MSc in Data Science and Information Technology
+        university: Tsinghua University
+        time: 2019 - 2022
+        details: 
 
     - education:
       degree: BSc in Electrical Engineering
