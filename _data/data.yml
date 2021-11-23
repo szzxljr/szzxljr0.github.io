@@ -13,7 +13,7 @@ sidebar:
     
     # Sidebar links
     email: jiarong.li00 \at gmail \dot com
-    phone: (+86)-186-6622-2886
+    phone: TBA
     website: jiarongli.work #do not add http://
     linkedin: Jiarong Li
     github: szzxljr
@@ -39,7 +39,8 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text:  My research focuses on Smart Sensing, Robotics, Control, and Computer Vision. I got my bachelor's degree from the University of Electronic Science and Technology of China, and I was an exchange student at UC Berkeley in my sophomore year. Currently, I am a master's student at Tsinghua-Berkeley Shenzhen Institute. I will receive my MSc in Data Science from Tsinghua University and MEng in Industrial Engineering and Operation Research (IEOR) from UC Berkeley in June 2022.
+    text:  I am a master's student at Tsinghua-Berkeley Shenzhen Institute. I will receive my MSc in Data Science from Tsinghua University and MEng in Industrial Engineering and Operation Research (IEOR) from UC Berkeley in June 2022.
+    # My research focuses on Smart Sensing, Robotics, Control, and Computer Vision. I got my bachelor's degree from the University of Electronic Science and Technology of China, and I was an exchange student at UC Berkeley in my sophomore year. Currently, I am a master's student at Tsinghua-Berkeley Shenzhen Institute. I will receive my MSc in Data Science from Tsinghua University and MEng in Industrial Engineering and Operation Research (IEOR) from UC Berkeley in June 2022.
     #I'm interested in using ML/CV to help robots acquire perception and behave automatically towards complex tasks. 
     # text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
 
@@ -80,30 +81,30 @@ publications:
     # intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
     
     publications:
-      - paper:
-        title: Observer-Based Decentralized Event-triggered Consensus for Leader-following Linear Multi-Agent Systems
-        authors: Jiarong Li, Xiang Wu, Qiuying Li, Yefeng Li.
-        conference: IEEE 3rd Advanced Information Technology, Electronic and Automation Control Conference, October 12-14, 2018. (Published, EI)
-      - paper:
-        title: Finite-time Distributed Event-triggered Consensus Control for Leader-following General Linear Multi-Agent Systems
-        authors: Jiarong Li, Xiang Wu, Qiuying Li, Yefeng Li.
-        conference: IEEE 3rd Advanced Information Technology, Electronic and Automation Control Conference, October 12-14, 2018. (Published, EI)
-      - paper:
-        title: Triboelectric Nanogenerators Enabled Internet of Things, A Survey, Intelligent and Converged Networks
-        authors: Jiarong Li, Changsheng Wu, Ishara Dharmasena, Xiaoyue Ni, Zihan Wang, Haixu Shen, Shao-Lun Huang, Wenbo Ding.
-        conference: Intelligent and Converged Networks. (Published, IEEE & ITU Journal)
-      - paper:
-        title: Triboelectric Nanogenerators Enabled Internet of Things, A Survey, Intelligent and Converged Networks
-        authors: Jiarong Li, Changsheng Wu, Ishara Dharmasena, Xiaoyue Ni, Zihan Wang, Haixu Shen, Shao-Lun Huang, Wenbo Ding.
-        conference: Intelligent and Converged Networks. (Published, IEEE & ITU Journal)
-      - paper:
-        title: Sensing Beyond Itself, Multi-functional Use of Ubiquitous Signals towards Wearable Applications
-        authors: Jihan Wang, Jiarong Li, Yuchao Jin, Jiyu Wang, Fang Yan, Gang Li, Xiaoyue Ni, Wenbo Ding.
-        conference: Digital Signal Processing. (Published, SCI)
-      - paper:
-        title: TriboGait, A deep learning enabled triboelectric gait sensor system for human activity recognition and individual identification
-        authors: Jiarong Li, Zihan Wang, Zihao Zhao, Yuchao Jin, Jihong Yin, Jiyu Wang, Shao-Lun Huang, Jiyu Wang.
-        conference: Adjunct Proceedings of the 2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing. (Accepted, EI, CCF-A)
+      # - paper:
+      #   title: Observer-Based Decentralized Event-triggered Consensus for Leader-following Linear Multi-Agent Systems
+      #   authors: Jiarong Li, Xiang Wu, Qiuying Li, Yefeng Li.
+      #   conference: IEEE 3rd Advanced Information Technology, Electronic and Automation Control Conference, October 12-14, 2018. (Published, EI)
+      # - paper:
+      #   title: Finite-time Distributed Event-triggered Consensus Control for Leader-following General Linear Multi-Agent Systems
+      #   authors: Jiarong Li, Xiang Wu, Qiuying Li, Yefeng Li.
+      #   conference: IEEE 3rd Advanced Information Technology, Electronic and Automation Control Conference, October 12-14, 2018. (Published, EI)
+      # - paper:
+      #   title: Triboelectric Nanogenerators Enabled Internet of Things, A Survey, Intelligent and Converged Networks
+      #   authors: Jiarong Li, Changsheng Wu, Ishara Dharmasena, Xiaoyue Ni, Zihan Wang, Haixu Shen, Shao-Lun Huang, Wenbo Ding.
+      #   conference: Intelligent and Converged Networks. (Published, IEEE & ITU Journal)
+      # - paper:
+      #   title: Triboelectric Nanogenerators Enabled Internet of Things, A Survey, Intelligent and Converged Networks
+      #   authors: Jiarong Li, Changsheng Wu, Ishara Dharmasena, Xiaoyue Ni, Zihan Wang, Haixu Shen, Shao-Lun Huang, Wenbo Ding.
+      #   conference: Intelligent and Converged Networks. (Published, IEEE & ITU Journal)
+      # - paper:
+      #   title: Sensing Beyond Itself, Multi-functional Use of Ubiquitous Signals towards Wearable Applications
+      #   authors: Jihan Wang, Jiarong Li, Yuchao Jin, Jiyu Wang, Fang Yan, Gang Li, Xiaoyue Ni, Wenbo Ding.
+      #   conference: Digital Signal Processing. (Published, SCI)
+      # - paper:
+      #   title: TriboGait, A deep learning enabled triboelectric gait sensor system for human activity recognition and individual identification
+      #   authors: Jiarong Li, Zihan Wang, Zihao Zhao, Yuchao Jin, Jihong Yin, Jiyu Wang, Shao-Lun Huang, Jiyu Wang.
+      #   conference: Adjunct Proceedings of the 2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing. (Accepted, EI, CCF-A)
 
 
 experiences:
@@ -121,29 +122,29 @@ projects:
     #   sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
     
     projects:
-      - project:
-        title: Self-Powered Gait Sensor Using Triboelectric Nanogenerator
-        tagline: Applied TENG to construct a self-powered gait sensor system for occupancy activity and ID detection and monitoring; Trained the obtained datasets using deep learning method to realize classification.
+      # - project:
+      #   title: Self-Powered Gait Sensor Using Triboelectric Nanogenerator
+      #   tagline: Applied TENG to construct a self-powered gait sensor system for occupancy activity and ID detection and monitoring; Trained the obtained datasets using deep learning method to realize classification.
 
-      - project:
-        title: Real-Time Video Stitching Technology of UAV
-        # link: "#"
-        tagline: Designed a video stabilization method combining feature matching and filtering method; Designed a video stitching algorithm based on sub-pixel feature corner tracking in time; Stitched two videos on subpixel resolution at a rate exceeding 15 fps; Designed a GUI and software system.
+      # - project:
+      #   title: Real-Time Video Stitching Technology of UAV
+      #   # link: "#"
+      #   tagline: Designed a video stabilization method combining feature matching and filtering method; Designed a video stitching algorithm based on sub-pixel feature corner tracking in time; Stitched two videos on subpixel resolution at a rate exceeding 15 fps; Designed a GUI and software system.
 
-      - project:
-        title: Baxter Catching Flying Ball 
-        link: "https://baxter-catching-ball.weebly.com"
-        tagline: Detected the tennis ball and track the trajectory. Predicted the dropping point of the tennis ball;  omputed the robot configuration and path planning. Wrote a fast controller to move the robot.
+      # - project:
+      #   title: Baxter Catching Flying Ball 
+      #   link: "https://baxter-catching-ball.weebly.com"
+      #   tagline: Detected the tennis ball and track the trajectory. Predicted the dropping point of the tennis ball;  omputed the robot configuration and path planning. Wrote a fast controller to move the robot.
 
-      - project: 
-        title: Baxter Playing Sokoban 
-        link: "https://baxtersokoban.weebly.com"
-        tagline: Let industrial robot Baxter play a transport puzzle Sokoban manually and automatically; Wrote a subscriber to build the map, a rule function to receive, check and process keyboard inputs; Wrote a searching algorithm to plan the moving paths.
+      # - project: 
+      #   title: Baxter Playing Sokoban 
+      #   link: "https://baxtersokoban.weebly.com"
+      #   tagline: Let industrial robot Baxter play a transport puzzle Sokoban manually and automatically; Wrote a subscriber to build the map, a rule function to receive, check and process keyboard inputs; Wrote a searching algorithm to plan the moving paths.
 
 
-      - project:
-        title: Vision-based tacile sensor
-        tagline: Embedding tactile sensors in soft materials with simpliﬁed model systems for the control of softrobots and assistive devices. Build the force sensor system, extract point cloud data.
+      # - project:
+      #   title: Vision-based tacile sensor
+      #   tagline: Embedding tactile sensors in soft materials with simpliﬁed model systems for the control of softrobots and assistive devices. Build the force sensor system, extract point cloud data.
 
       - project:
         title: Machine Learning Project
