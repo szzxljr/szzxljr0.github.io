@@ -8,32 +8,32 @@ sidebar:
     
     # Profile information
     name: Jiarong Li
-    tagline: Master Student
+    tagline: PhD Student
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
     email: jiarong.li00 \at gmail \dot com
-    phone: TBA
+    # phone: TBA
     website: jiarongli.work #do not add http://
     linkedin: Jiarong Li
     github: szzxljr
     # twitter: '@xxx'
 
-    languages:
-        - language:
-          idiom: Chinese
-          level: Native
-        - language:
-          idiom: English
-          level: Fluent
+    # languages:
+    #     - language:
+    #       idiom: Chinese
+    #       level: Native
+    #     - language:
+    #       idiom: English
+    #       level: Fluent
         
-    interests:
-        - interest:
-          item: Photograph
-          link:
-        - interest:
-          item: Basketball
-          link:
+    # interests:
+    #     - interest:
+    #       item: Photograph
+    #       link:
+    #     - interest:
+    #       item: Basketball
+    #       link:
 
 
 
