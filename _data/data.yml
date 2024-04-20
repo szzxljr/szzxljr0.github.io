@@ -46,27 +46,26 @@ career-profile:
 
 
 studies: 
-
     - education:
       degree: BSc in Electronic Science and Technology
       university: University of Electronic Science and Technology of China
       time: 2015 - 2019
-      details: Overall GPA 3.99/4.00 (Ranking 1st among 165 students)
+      details: "GPA: 3.99/4 (Ranking: 1/165, Excellent Graduate (Top 1%))"
     - education:
-        degree: MEng in Industrial Engineering and Operation Research
-        university: University of California, Berkeley
-        time: 2021 - 2022
-        details: TEST
+      degree: MEng in Industrial Engineering and Operation Research
+      university: University of California, Berkeley
+      time: 2021 - 2022
+      details: "GPA: 3.85/4 (Corporate Scholarship)"
     - education:
-        degree: MSc in Data Science and Information Technology
-        university: Tsinghua University
-        time: 2019 - 2022
-        details: TEST
+      degree: MSc in Data Science and Information Technology
+      university: Tsinghua University
+      time: 2019 - 2022
+      details: "GPA: 3.8/4 (Excellent Graduate (Top 1%))"
     - education:
-        degree: PhD in Data Science and Information Technology
-        university: Tsinghua University
-        time: 2022 - 2026
-        details: TEST
+      degree: PhD in Data Science and Information Technology
+      university: Tsinghua University
+      time: 2022 - 2026
+      details: "GPA: 3.94/4 (School Scholarship)"
     # - education:
     #   degree: MSc in Data Science and MEng in IEOR
     #   university: Tsinghua University and UC Berkeley
@@ -85,10 +84,6 @@ publications:
     # intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
     
     publications:
-      - paper:
-        title: "A Triboelectric Gait Sensor System for Human Activity Recognition and User Identification"
-        authors: "Jiarong Li#, Zixuan Xie#, Zihan Wang#, Zenan Lin, Chengyue Lu, Zihao Zhao, Yuchao Jin, Jihong Yin, Shilong Mu, Chaobo Zhang, Weihua Gui, Xiaojun Liang, Jiyu Wang, Wenbo Ding."
-        conference: "Nano Energy, 2023, 112, 108473. (Published, SCI, IF: 17.6, cited by 7 times)"
       - paper:
         title: "A Triboelectric Gait Sensor System for Human Activity Recognition and User Identification"
         authors: "Jiarong Li#, Zixuan Xie#, Zihan Wang#, Zenan Lin, Chengyue Lu, Zihao Zhao, Yuchao Jin, Jihong Yin, Shilong Mu, Chaobo Zhang, Weihua Gui, Xiaojun Liang, Jiyu Wang, Wenbo Ding."
