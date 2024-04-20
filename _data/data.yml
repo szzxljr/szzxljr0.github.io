@@ -38,7 +38,7 @@ sidebar:
 
 
 career-profile: 
-    title: Career Profile
+    title: About Me
     text:  I am a PhD student majoring in Data Science and Information Technology at Tsinghua University. My research focuses on ubiquitous sensing systems for indoor monitoring.
     # My research focuses on Smart Sensing, Robotics, Control, and Computer Vision. I got my bachelor's degree from the University of Electronic Science and Technology of China, and I was an exchange student at UC Berkeley in my sophomore year. Currently, I am a master's student at Tsinghua-Berkeley Shenzhen Institute. I will receive my MSc in Data Science from Tsinghua University and MEng in Industrial Engineering and Operation Research (IEOR) from UC Berkeley in June 2022.
     #I'm interested in using ML/CV to help robots acquire perception and behave automatically towards complex tasks. 
@@ -144,74 +144,74 @@ publications:
 
 
 
-experiences:
-  # title: Experiences
+# experiences:
+#   # title: Experiences
 
-  - experience:
-    role: github
-    time: f
-    company: g
-    detals: g
+#   - experience:
+#     role: github
+#     time: f
+#     company: g
+#     detals: g
 
-projects:
-    title: Projects
-    # intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-    #   sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+# projects:
+#     title: Projects
+#     # intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
+#     #   sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
     
-    projects:
-      # - project:
-      #   title: Self-Powered Gait Sensor Using Triboelectric Nanogenerator
-      #   tagline: Applied TENG to construct a self-powered gait sensor system for occupancy activity and ID detection and monitoring; Trained the obtained datasets using deep learning method to realize classification.
+#     projects:
+#       # - project:
+#       #   title: Self-Powered Gait Sensor Using Triboelectric Nanogenerator
+#       #   tagline: Applied TENG to construct a self-powered gait sensor system for occupancy activity and ID detection and monitoring; Trained the obtained datasets using deep learning method to realize classification.
 
-      # - project:
-      #   title: Real-Time Video Stitching Technology of UAV
-      #   # link: "#"
-      #   tagline: Designed a video stabilization method combining feature matching and filtering method; Designed a video stitching algorithm based on sub-pixel feature corner tracking in time; Stitched two videos on subpixel resolution at a rate exceeding 15 fps; Designed a GUI and software system.
+#       # - project:
+#       #   title: Real-Time Video Stitching Technology of UAV
+#       #   # link: "#"
+#       #   tagline: Designed a video stabilization method combining feature matching and filtering method; Designed a video stitching algorithm based on sub-pixel feature corner tracking in time; Stitched two videos on subpixel resolution at a rate exceeding 15 fps; Designed a GUI and software system.
 
-      # - project:
-      #   title: Baxter Catching Flying Ball 
-      #   link: "https://baxter-catching-ball.weebly.com"
-      #   tagline: Detected the tennis ball and track the trajectory. Predicted the dropping point of the tennis ball;  omputed the robot configuration and path planning. Wrote a fast controller to move the robot.
+#       # - project:
+#       #   title: Baxter Catching Flying Ball 
+#       #   link: "https://baxter-catching-ball.weebly.com"
+#       #   tagline: Detected the tennis ball and track the trajectory. Predicted the dropping point of the tennis ball;  omputed the robot configuration and path planning. Wrote a fast controller to move the robot.
 
-      # - project: 
-      #   title: Baxter Playing Sokoban 
-      #   link: "https://baxtersokoban.weebly.com"
-      #   tagline: Let industrial robot Baxter play a transport puzzle Sokoban manually and automatically; Wrote a subscriber to build the map, a rule function to receive, check and process keyboard inputs; Wrote a searching algorithm to plan the moving paths.
-
-
-      # - project:
-      #   title: Vision-based tacile sensor
-      #   tagline: Embedding tactile sensors in soft materials with simpliﬁed model systems for the control of softrobots and assistive devices. Build the force sensor system, extract point cloud data.
-
-      - project:
-        title: Machine Learning Project
-        link: "https://github.com/szzxljr/CS188_Course_Projects"
-        tagline: Implemented a standalone perceptron. Built a mini-library for constructing and training neural networks. Built and trained several neural network to approximate sin(x), do digit classiﬁcation, reinforcement learning and language identiﬁcation.
+#       # - project: 
+#       #   title: Baxter Playing Sokoban 
+#       #   link: "https://baxtersokoban.weebly.com"
+#       #   tagline: Let industrial robot Baxter play a transport puzzle Sokoban manually and automatically; Wrote a subscriber to build the map, a rule function to receive, check and process keyboard inputs; Wrote a searching algorithm to plan the moving paths.
 
 
-skills:
-    title: Skills &amp; Proficiency
-    skills:
-        - skill:
-          name: Python & Java
-          level: 85%
+#       # - project:
+#       #   title: Vision-based tacile sensor
+#       #   tagline: Embedding tactile sensors in soft materials with simpliﬁed model systems for the control of softrobots and assistive devices. Build the force sensor system, extract point cloud data.
 
-        - skill:
-          name: C/C++ & Matlab
-          level: 75%
+#       - project:
+#         title: Machine Learning Project
+#         link: "https://github.com/szzxljr/CS188_Course_Projects"
+#         tagline: Implemented a standalone perceptron. Built a mini-library for constructing and training neural networks. Built and trained several neural network to approximate sin(x), do digit classiﬁcation, reinforcement learning and language identiﬁcation.
 
-        - skill: 
-          name: Robot Operating System
-          level: 85%
 
-        - skill:
-          name: OpenCV, Tensorflow
-          level: 70%
+# skills:
+#     title: Skills &amp; Proficiency
+#     skills:
+#         - skill:
+#           name: Python & Java
+#           level: 85%
 
-        - skill:
-          name: Linux (Arch Linux, Ubuntu)
-          level: 80%
+#         - skill:
+#           name: C/C++ & Matlab
+#           level: 75%
 
-        - skill:
-          name: Hspice, Multisim
-          level: 60%
+#         - skill: 
+#           name: Robot Operating System
+#           level: 85%
+
+#         - skill:
+#           name: OpenCV, Tensorflow
+#           level: 70%
+
+#         - skill:
+#           name: Linux (Arch Linux, Ubuntu)
+#           level: 80%
+
+#         - skill:
+#           name: Hspice, Multisim
+#           level: 60%
