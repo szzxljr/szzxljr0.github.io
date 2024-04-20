@@ -39,7 +39,7 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text:  I am a master's student at Tsinghua-Berkeley Shenzhen Institute. I will receive my MSc in Data Science from Tsinghua University and MEng in Industrial Engineering and Operation Research (IEOR) from UC Berkeley in June 2022.
+    text:  I am a PhD student majoring in Data Science and Information Technology at Tsinghua University. My research focuses on ubiquitous sensing systems for indoor monitoring.
     # My research focuses on Smart Sensing, Robotics, Control, and Computer Vision. I got my bachelor's degree from the University of Electronic Science and Technology of China, and I was an exchange student at UC Berkeley in my sophomore year. Currently, I am a master's student at Tsinghua-Berkeley Shenzhen Institute. I will receive my MSc in Data Science from Tsinghua University and MEng in Industrial Engineering and Operation Research (IEOR) from UC Berkeley in June 2022.
     #I'm interested in using ML/CV to help robots acquire perception and behave automatically towards complex tasks. 
     # text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
@@ -52,7 +52,21 @@ studies:
       university: University of Electronic Science and Technology of China
       time: 2015 - 2019
       details: Overall GPA 3.99/4.00 (Ranking 1st among 165 students)
-
+    - education:
+        degree: MEng in Industrial Engineering and Operation Research
+        university: University of California, Berkeley
+        time: 2021 - 2022
+        details: TEST
+    - education:
+        degree: MSc in Data Science and Information Technology
+        university: Tsinghua University
+        time: 2019 - 2022
+        details: TEST
+    - education:
+        degree: PhD in Data Science and Information Technology
+        university: Tsinghua University
+        time: 2022 - 2026
+        details: TEST
     # - education:
     #   degree: MSc in Data Science and MEng in IEOR
     #   university: Tsinghua University and UC Berkeley
@@ -64,23 +78,7 @@ studies:
     #   time: 2017 - 2018
     #   details: 
 
-    - education:
-        degree: MEng in Industrial Engineering and Operation Research
-        university: University of California, Berkeley
-        time: 2021 - 2022
-        details: 
 
-    - education:
-        degree: MSc in Data Science and Information Technology
-        university: Tsinghua University
-        time: 2019 - 2022
-        details: 
-
-    - education:
-        degree: PhD in Data Science and Information Technology
-        university: Tsinghua University
-        time: 2022 - 2026
-        details: 
 
 publications:
     title: Publications
@@ -88,29 +86,62 @@ publications:
     
     publications:
       - paper:
-        title: Observer-Based Decentralized Event-triggered Consensus for Leader-following Linear Multi-Agent Systems
-        authors: Jiarong Li, Xiang Wu, Qiuying Li, Yefeng Li.
-        conference: IEEE 3rd Advanced Information Technology, Electronic and Automation Control Conference, October 12-14, 2018. (Published, EI)
+        title: "A Triboelectric Gait Sensor System for Human Activity Recognition and User Identification"
+        authors: "Jiarong Li#, Zixuan Xie#, Zihan Wang#, Zenan Lin, Chengyue Lu, Zihao Zhao, Yuchao Jin, Jihong Yin, Shilong Mu, Chaobo Zhang, Weihua Gui, Xiaojun Liang, Jiyu Wang, Wenbo Ding."
+        conference: "Nano Energy, 2023, 112, 108473. (Published, SCI, IF: 17.6, cited by 7 times)"
       - paper:
-        title: Finite-time Distributed Event-triggered Consensus Control for Leader-following General Linear Multi-Agent Systems
-        authors: Jiarong Li, Xiang Wu, Qiuying Li, Yefeng Li.
-        conference: IEEE 3rd Advanced Information Technology, Electronic and Automation Control Conference, October 12-14, 2018. (Published, EI)
+        title: "A Triboelectric Gait Sensor System for Human Activity Recognition and User Identification"
+        authors: "Jiarong Li#, Zixuan Xie#, Zihan Wang#, Zenan Lin, Chengyue Lu, Zihao Zhao, Yuchao Jin, Jihong Yin, Shilong Mu, Chaobo Zhang, Weihua Gui, Xiaojun Liang, Jiyu Wang, Wenbo Ding."
+        conference: "Nano Energy, 2023, 112, 108473. (Published, SCI, IF: 17.6, cited by 7 times)"
       - paper:
-        title: Triboelectric Nanogenerators Enabled Internet of Things, A Survey, Intelligent and Converged Networks
-        authors: Jiarong Li, Changsheng Wu, Ishara Dharmasena, Xiaoyue Ni, Zihan Wang, Haixu Shen, Shao-Lun Huang, Wenbo Ding.
-        conference: Intelligent and Converged Networks. (Published, IEEE & ITU Journal)
+        title: "Triboelectric Nanogenerators Enabled Internet of Things: A Survey"
+        authors: "Jiarong Li, Changsheng Wu, Ishara Dharmasena, Xiaoyue Ni, Zihan Wang, Haixu Shen, Shao-Lun Huang, Wenbo Ding."
+        conference: "Intelligent and Converged Networks, 2020, 1(2), 115-141. (Published, EI, cited by 52 times, 2023 Excellent Paper Award)"
       - paper:
-        title: Triboelectric Nanogenerators Enabled Internet of Things, A Survey, Intelligent and Converged Networks
-        authors: Jiarong Li, Changsheng Wu, Ishara Dharmasena, Xiaoyue Ni, Zihan Wang, Haixu Shen, Shao-Lun Huang, Wenbo Ding.
-        conference: Intelligent and Converged Networks. (Published, IEEE & ITU Journal)
+        title: "Sensing Beyond Itself: Multi-functional Use of Ubiquitous Signals towards Wearable Applications"
+        authors: "Zihan Wang, Jiarong Li, Yuchao Jin, Jiyu Wang, Fang Yan, Gang Li, Xiaoyue Ni, Wenbo Ding."
+        conference: "Digital Signal Processing, 2021, 116, 103091. (Published, SCI, IF: 2.9, cited by 13 times)"
       - paper:
-        title: Sensing Beyond Itself, Multi-functional Use of Ubiquitous Signals towards Wearable Applications
-        authors: Jihan Wang, Jiarong Li, Yuchao Jin, Jiyu Wang, Fang Yan, Gang Li, Xiaoyue Ni, Wenbo Ding.
-        conference: Digital Signal Processing. (Published, SCI)
+        title: "Integrated Sensing, Lighting and Communication Based on Visible Light Communication: A Review"
+        authors: "Chenxin Liang, Jiarong Li, Sicong Liu, Fang Yang, Yuhan Dong, Jian Song, Xiao-Ping Zhang, Wenbo Ding."
+        conference: "Digital Signal Processing, 2023, 104340. (Published, SCI, IF: 2.9, cited by 1 times)"
       - paper:
-        title: TriboGait, A deep learning enabled triboelectric gait sensor system for human activity recognition and individual identification
-        authors: Jiarong Li, Zihan Wang, Zihao Zhao, Yuchao Jin, Jihong Yin, Jiyu Wang, Shao-Lun Huang, Jiyu Wang.
-        conference: Adjunct Proceedings of the 2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing. (Accepted, EI, CCF-A)
+        title: "Indoor Health Monitoring with VLC-Based Passive Posture Monitoring"
+        authors: "Jiarong Li, Zixuan Xie, Chenxin Liang, Chihan Xu, Changshuo Ge, Zhancong Xu, Jingyang Wang, Liguang Ruan, Weihua Gui, Xiaojun Liang, Wenbo Ding."
+        conference: "2024 Photonics & Electromagnetics Research Symposium (PIERS), 2024. (Accepted, Oral)"
+      - paper:
+        title: "Gesture Recognition and Control based on Visible Light Communication"
+        authors: "Xiaojun Liang#, Jiarong Li#, Chihan Xu, Zixuan Xie, Chaobo Zhang, Wenbo Ding, Weihua Gui."
+        conference: "2024 43rd Chinese Control Conference (CCC), 2024. (Accepted, Oral)"
+      - paper:
+        title: "Real-time Material and Texture Recognition Using Visible Light Communication"
+        authors: "Jiarong Li, Chenxin Liang, Zixuan Xie, Xiaojun Liang, Wenbo Ding, Jian Song, Xiao-Ping Zhang."
+        conference: "Proceedings of the 22nd Annual International Conference on Mobile Systems, Applications and Services (MobiSys), 2024. (Accepted, Poster)"
+      - paper:
+        title: "Ubiquitous Sensing System for Activity and Gesture Recognition via Optical and Energy-Harvesting Technologies"
+        authors: "Jiarong Li."
+        conference: "Proceedings of the 23rd International Conference on Information Processing in Sensor Networks (IPSN), 2024. (Accepted, PhD Forum, Oral)"
+      - paper:
+        title: "SolareSkin: Self-powered Visible Light Sensing Through a Solar Cell E-Skin"
+        authors: "Jiarong Li#, Changshuo Ge#, Jun Tao, Jingyang Wang, Xiaomin Xu, Xinlei Chen, Weihua Gui, Xiaojun Liang, Wenbo Ding."
+        conference: "Adjunct Proceedings of the 2023 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2023. (Workshop, Oral, EI, CCF A, CSRankings top conference)"
+      - paper:
+        title: "TriboGait: A deep learning enabled triboelectric gait sensor system for human activity recognition and individual identification"
+        authors: "Jiarong Li, Zihan Wang, Zihao Zhao, Yuchao Jin, Jihong Yin, Jiyu Wang, Shao-Lun Huang, Jiyu Wang."
+        conference: "Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2021. (Workshop, Oral, EI, CCF A, CSRankings top conference, cited by 9 times)"
+      - paper:
+        title: "Observer-Based Decentralized Event-triggered Consensus for Leader-following Linear Multi-Agent Systems"
+        authors: "Jiarong Li, Xiang Wu, Qiuying Li, Yefeng Li."
+        conference: "IEEE 3rd Advanced Information Technology, Electronic and Automation Control Conference (IAEAC), 2018. (Published, EI, cited by 1 times)"
+      - paper:
+        title: "Finite-time Distributed Event-triggered Consensus Control for Leader-following General Linear Multi-Agent Systems"
+        authors: "Jiarong Li, Xiang Wu, Qiuying Li, Yefeng Li."
+        conference: "IEEE 3rd Advanced Information Technology, Electronic and Automation Control Conference (IAEAC), 2018. (Published, EI, cited by 2 times)"
+      - paper:
+        title: "SolarSense: A Self-powered Ubiquitous Gesture Recognition System for Industrial Human-Computer Interaction"
+        authors: "Jiarong Li, Qinghao Xu, Qingyang Zhu, Zixuan Xie, Zhancong Xu, Changshuo Ge, Liguang Ruan, H. Y. Fu, Xiaojun Liang, Wenbo Ding, Weihua Gui, Xiao-Ping Zhang."
+        conference: "Proceedings of the 22nd Annual International Conference on Mobile Systems, Applications and Services (MobiSys), 2024. (Submitted)"
+
 
 
 experiences:
