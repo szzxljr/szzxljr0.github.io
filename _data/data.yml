@@ -14,10 +14,10 @@ sidebar:
     # Sidebar links
     email: jiarong.li00 \at gmail \dot com
     # phone: TBA
-    website: jiarongli.work #do not add http://
+    # website: jiarongli.work #do not add http://
     linkedin: Jiarong Li
     github: szzxljr
-    website: https://scholar.google.com/citations?hl=en&user=rikSOcsAAAAJ&view_op=list_works
+    website: scholar.google.com/citations?hl=en&user=rikSOcsAAAAJ&view_op=list_works
     # twitter: '@xxx'
 
     # languages:
@@ -40,7 +40,11 @@ sidebar:
 
 career-profile: 
     title: About Me
-    text:  I am a PhD student majoring in Data Science and Information Technology at Tsinghua University. My research focuses on ubiquitous sensing systems for indoor monitoring.
+    text:  I am a third-year PhD student majoring in Data Science and Information Technology at Tsinghua University, expected to graduate in June 2025. My research focuses on ubiquitous sensing systems for indoor monitoring utilizing optical wireless communication and energy-harvesting technologies. 
+           I am jointly trained by Tsinghua University and Pengcheng Laboratory, under the Industrial Intelligence Laboratory led by Academicians Wen Gao and Weihua Gui. My advisors are Associate Professor Wenbo Ding (recipient of the National Overseas High-Level Talent Program for Young Scholars) and Associate Research Fellow Xiaojun Liang. My doctoral research centers on human-centered indoor sensing systems, addressing key technologies in three areas: contact-based sensing, non-contact sensing, and spatial indoor activity recognition.
+           To date, I have published 18 academic papers, including 12 as the first author. Among them, 11 papers are published in SCI Q2 journals or conferences recommended by authoritative directories such as the Chinese Computer Federation (CCF) in categories B or higher. I have participated in multiple international conferences, receiving an annual Excellent Paper Award and a Best Oral Presentation Award. My research has been positively cited and reviewed by numerous renowned scholars, including nearly ten internationally recognized academicians and Fellows (e.g., Academician You Zheng, President of Huazhong University of Science and Technology, and Wang Zhonglin, a four-academy academician and winner of the Eni Award, also known as the Nobel Prize for Energy). My works have garnered over 160 citations to date.
+           In terms of international experience, I spent one academic year as an undergraduate exchange student at the University of California, Berkeley, and one semester at Fu Jen Catholic University in Taiwan. As a master’s student, I earned an MS degree in Industrial Engineering and Operations Research from UC Berkeley (ranked 3rd in the U.S. by US News in this field). During my PhD, I participated in a summer research program at the University of Oxford, supported by Tsinghua University’s Overseas Research Training Program for Counselors.
+    # I am a PhD student majoring in Data Science and Information Technology at Tsinghua University. My research focuses on ubiquitous sensing systems for indoor monitoring.
     # My research focuses on Smart Sensing, Robotics, Control, and Computer Vision. I got my bachelor's degree from the University of Electronic Science and Technology of China, and I was an exchange student at UC Berkeley in my sophomore year. Currently, I am a master's student at Tsinghua-Berkeley Shenzhen Institute. I will receive my MSc in Data Science from Tsinghua University and MEng in Industrial Engineering and Operation Research (IEOR) from UC Berkeley in June 2022.
     #I'm interested in using ML/CV to help robots acquire perception and behave automatically towards complex tasks. 
     # text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
@@ -88,7 +92,7 @@ publications:
       - paper:
         title: "A Triboelectric Gait Sensor System for Human Activity Recognition and User Identification"
         authors: "Jiarong Li#, Zixuan Xie#, Zihan Wang#, Zenan Lin, Chengyue Lu, Zihao Zhao, Yuchao Jin, Jihong Yin, Shilong Mu, Chaobo Zhang, Weihua Gui, Xiaojun Liang, Jiyu Wang, Wenbo Ding."
-        conference: "Nano Energy, 2023, 112, 108473. (SCI, IF: 17.6, cited by 23 times)"
+        conference: "Nano Energy, 2023, 112, 108473. (SCI Q1, IF: 17.6, cited by 23 times)"
       - paper:
         title: "Triboelectric Nanogenerators Enabled Internet of Things: A Survey"
         authors: "Jiarong Li, Changsheng Wu, Ishara Dharmasena, Xiaoyue Ni, Zihan Wang, Haixu Shen, Shao-Lun Huang, Wenbo Ding."
@@ -96,11 +100,11 @@ publications:
       - paper:
         title: "Sensing Beyond Itself: Multi-functional Use of Ubiquitous Signals towards Wearable Applications"
         authors: "Zihan Wang, Jiarong Li, Yuchao Jin, Jiyu Wang, Fang Yan, Gang Li, Xiaoyue Ni, Wenbo Ding."
-        conference: "Digital Signal Processing, 2021, 116, 103091. (SCI, IF: 2.9, cited by 21 times)"
+        conference: "Digital Signal Processing, 2021, 116, 103091. (SCI Q2, IF: 2.9, cited by 21 times)"
       - paper:
         title: "Integrated Sensing, Lighting and Communication Based on Visible Light Communication: A Review"
         authors: "Chenxin Liang, Jiarong Li, Sicong Liu, Fang Yang, Yuhan Dong, Jian Song, Xiao-Ping Zhang, Wenbo Ding."
-        conference: "Digital Signal Processing, 2023, 104340. (SCI, IF: 2.9, cited by 19 times)"
+        conference: "Digital Signal Processing, 2023, 104340. (SCI Q2, IF: 2.9, cited by 19 times)"
       - paper:
         title: "VLocSense: Integrated VLC System for Indoor Passive Localization and Human Sensing"
         authors: "Jiarong Li, Changshuo Ge, Chihan Xu, Junhao Gong, Weihua Gui, Chaobo Zhang, Xiaojun Liang, Wenbo Ding."
