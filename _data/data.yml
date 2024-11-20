@@ -17,6 +17,7 @@ sidebar:
     website: jiarongli.work #do not add http://
     linkedin: Jiarong Li
     github: szzxljr
+    website: https://scholar.google.com/citations?hl=en&user=rikSOcsAAAAJ&view_op=list_works
     # twitter: '@xxx'
 
     # languages:
@@ -64,7 +65,7 @@ studies:
     - education:
       degree: PhD in Data Science and Information Technology
       university: Tsinghua University
-      time: 2022 - 2026
+      time: 2022 - 2025
       details: "GPA: 3.94/4 (School Scholarship)"
     # - education:
     #   degree: MSc in Data Science and MEng in IEOR
@@ -87,27 +88,35 @@ publications:
       - paper:
         title: "A Triboelectric Gait Sensor System for Human Activity Recognition and User Identification"
         authors: "Jiarong Li#, Zixuan Xie#, Zihan Wang#, Zenan Lin, Chengyue Lu, Zihao Zhao, Yuchao Jin, Jihong Yin, Shilong Mu, Chaobo Zhang, Weihua Gui, Xiaojun Liang, Jiyu Wang, Wenbo Ding."
-        conference: "Nano Energy, 2023, 112, 108473. (SCI, IF: 17.6, cited by 15 times)"
+        conference: "Nano Energy, 2023, 112, 108473. (SCI, IF: 17.6, cited by 23 times)"
       - paper:
         title: "Triboelectric Nanogenerators Enabled Internet of Things: A Survey"
         authors: "Jiarong Li, Changsheng Wu, Ishara Dharmasena, Xiaoyue Ni, Zihan Wang, Haixu Shen, Shao-Lun Huang, Wenbo Ding."
-        conference: "Intelligent and Converged Networks, 2020, 1(2), 115-141. (EI, cited by 66 times, 2023 Excellent Paper Award)"
+        conference: "Intelligent and Converged Networks, 2020, 1(2), 115-141. (EI, cited by 70 times, 2023 Excellent Paper Award)"
       - paper:
         title: "Sensing Beyond Itself: Multi-functional Use of Ubiquitous Signals towards Wearable Applications"
         authors: "Zihan Wang, Jiarong Li, Yuchao Jin, Jiyu Wang, Fang Yan, Gang Li, Xiaoyue Ni, Wenbo Ding."
-        conference: "Digital Signal Processing, 2021, 116, 103091. (SCI, IF: 2.9, cited by 16 times)"
+        conference: "Digital Signal Processing, 2021, 116, 103091. (SCI, IF: 2.9, cited by 21 times)"
       - paper:
         title: "Integrated Sensing, Lighting and Communication Based on Visible Light Communication: A Review"
         authors: "Chenxin Liang, Jiarong Li, Sicong Liu, Fang Yang, Yuhan Dong, Jian Song, Xiao-Ping Zhang, Wenbo Ding."
-        conference: "Digital Signal Processing, 2023, 104340. (SCI, IF: 2.9, cited by 7 times)"
+        conference: "Digital Signal Processing, 2023, 104340. (SCI, IF: 2.9, cited by 19 times)"
+      - paper:
+        title: "VLocSense: Integrated VLC System for Indoor Passive Localization and Human Sensing"
+        authors: "Jiarong Li, Changshuo Ge, Chihan Xu, Junhao Gong, Weihua Gui, Chaobo Zhang, Xiaojun Liang, Wenbo Ding."
+        conference: "MobiCom, 2024. (Workshop, Oral, CCF A)"
+      - paper:
+        title: "PowerGest: Self-Powered Gesture Recognition for Command Input and Robotic Manipulation"
+        authors: "Jiarong Li, Qinghao Xu, Zhancong Xu, Changshuo Ge, Liguang Ruan, Xiaojun Liang, Wenbo Ding, Weihua Gui, Xiao-Ping Zhang."
+        conference: "ICPADS, 2024. (Oral, CCF C, acceptance rate: 19%)"
       - paper:
         title: "Indoor Health Monitoring with VLC-Based Passive Posture Monitoring"
         authors: "Jiarong Li, Zixuan Xie, Chenxin Liang, Chihan Xu, Changshuo Ge, Zhancong Xu, Jingyang Wang, Liguang Ruan, Weihua Gui, Xiaojun Liang, Wenbo Ding."
-        conference: "2024 Photonics & Electromagnetics Research Symposium (PIERS), 2024. (Accepted, Oral)"
+        conference: "2024 Photonics & Electromagnetics Research Symposium (PIERS), 2024. (THU-B Class, Oral)"
       - paper:
         title: "Gesture Recognition and Control based on Visible Light Communication"
         authors: "Xiaojun Liang#, Jiarong Li#, Chihan Xu, Zixuan Xie, Chaobo Zhang, Wenbo Ding, Weihua Gui."
-        conference: "2024 43rd Chinese Control Conference (CCC), 2024. (Accepted, Oral)"
+        conference: "2024 43rd Chinese Control Conference (CCC), 2024. (Oral)"
       - paper:
         title: "Poster: Real-time Material and Texture Recognition Using Visible Light Communication"
         authors: "Jiarong Li, Chenxin Liang, Zixuan Xie, Xiaojun Liang, Wenbo Ding, Jian Song, Xiao-Ping Zhang."
